@@ -222,7 +222,13 @@ body
 }
 
 /* Responsive Code */
-
+@media (min-width:0) and (max-width:590px)
+{
+    .navbar-brand
+    {
+        padding: 2% 0;
+    }
+}
 @media (min-width:0) and (max-width:1000px)
 {
     .globe
@@ -268,11 +274,12 @@ body
     {
         display: none;
     }
-    .highlighttext, .highlighttext p, .highlight ,.about
+    .highlighttext, .highlighttext p, .highlight ,.about, .center, .center li
     {
         text-align: center;
         margin: 0;
         padding: 0;
+        list-style-position: inside;
     }
     .heading
     {
