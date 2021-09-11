@@ -124,7 +124,6 @@ body
 
 .abouttext p
 {
-    color: #bfbfbf; 
     font-size: 24px;
     font-weight: 500;
 }
@@ -209,8 +208,8 @@ body
 }
 .foottext p
 {
-    font-size: 22px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 300;
 }
 .foottext a
 {
