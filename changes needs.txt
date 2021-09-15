@@ -1,67 +1,15 @@
-Virtual Intesrnship Program (VIP)
-           by AINE AI
+remove (by aine ai)
+create|compete --> below VIP
 
-Highlights
+An exclusive training-cum-internship program for data Science and Business Intelligence
 
-About Us-
+Member of (logo) Microsoft
 
-Read more about AINE AI <a>
+ABOUT AINE AI
 
-Top listed products
-* 
-*
-*
-*
+VIP is a training-cum-internship program for recent graduates and professional who are looking to master in data analytics, visualization, data science and business analytics.
 
+VIP HIGHLIGHTS
 
-HIghlights -
-
-Function
-VIP is focus on Data Science & Business Intelligence skills and technologies.
-
-LAPTOP -> PRE-REQUISITE
-A decent computer to install the project specific tools such as Power BI, Python etc.
-
-Configure :-
-	Choice of easier projetcs + More advanced projects.
-	Self-guided resources + Live training sessions.
-	1 Internship certificate + Many Trainig certificates.
-	Help via online cohorts.
-
-Additional Benefits
-	Select your preferres projects.
-	Learning resources from.
-	Training -
-	Guided training for the tools and skills needed in each project.
-	Certificate-
-	Get an internship certificate and a training certificate for each project you complete.
-
-Even More Benefits
-LOR full form
-
-	Job readindess-
-	free training on job readiness
-
-	Hiring- 
-	AINE AI prefers to hire for its open positions from its internship batches.
-
-
-Projects Available :-
-All and shold be same (&) - use this
-
-below projects - 
-<p> - Select the projects you want to get trained on.
-<p> - Work on at least one project to complete the internship.
-
-
-Start now
-
-discounted fee,
-an sponshorship
-
-usual fee
-discounted fee
-
-footer same as aine ai
-
+VIP is focused on Data Science & Business Intelligence skills and technologies, and lets you work on the tools and programming language of your choice.
 
