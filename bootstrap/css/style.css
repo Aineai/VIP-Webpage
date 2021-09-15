@@ -49,6 +49,7 @@ body
     width: 100%;
     /* min-height: 90vh; */
     /* border: 2px solid black; */
+    padding-top: 60px;
     background: #0cebeb;
     background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);
 }
@@ -73,6 +74,11 @@ body
 .text-teal{
     color: #236666 !important;
 }
+.globe
+{
+    /* margin-top: 60px; */
+    transform: scale(1.25);
+}
 .logo
 {
     width: 50px;
@@ -80,8 +86,9 @@ body
 }
 .mslogo
 {
-    width: 80px;
-    height: 80px;
+    transform: scale(0.6);
+    margin-left: -65px;
+    margin-top: -50px;
 }
 .mstext
 {
@@ -106,12 +113,13 @@ body
 .heromid
 {
     padding-top: 100px;
-    margin-right: 50px;
+    margin-right: 80px;
 }
 .herotext2 p
 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
+    margin-top: -20px;
 }
 
 .herotext3 span
@@ -412,5 +420,14 @@ body
     {
         padding-top: 60px;
         margin-right: 50px;
+    }
+}
+@media (min-width:0px) and (max-width:350px)
+{
+    .mslogo
+    {
+        transform: scale(0.6);
+        margin-left: -50px;
+        margin-top: -40px;
     }
 }
